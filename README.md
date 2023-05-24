@@ -1,11 +1,5 @@
 ![Header](./github-header-image.png)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anthony Wong
-====================================================================================================================================
-
-Web Developer
--------------
-
 I am a highly motivated software engineering graduate actively pursuing opportunities as a full-stack web developer. I possess a profound enthusiasm for leading JavaScript technologies in web development, including ExpressJS, ReactJS, and NextJS. Additionally, I possess a keen interest in Cloud technologies, particularly AWS, which enables scalable and robust solutions.
 
 * 🌍  I'm based in Ontario, Canada

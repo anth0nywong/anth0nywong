@@ -4,7 +4,7 @@ I am a highly motivated software engineering graduate actively pursuing opportun
 
 * 🌍  I'm based in Ontario, Canada
 * 🖥️  See my portfolio at [here.](http://intro.anthonyhhwong.link/)
-* * 🖥️  See my resume at [here.](http://intro.anthonyhhwong.link/](https://anth0nywong.github.io/resume/resume.pdf)
+* 📄  See my resume at [here.](https://anth0nywong.github.io/resume/resume.pdf)
 * ✉️  You can contact me at [anthonywong.hokhei@gmail.com](mailto:anthonywong.hokhei@gmail.com)
 * 🧠  I'm learning AWS Lambda
 
